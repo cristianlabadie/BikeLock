@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/cuenta" android:title=" Cuenta" />
+    <item android:id="@+id/traspaso" android:title=" Traspaso" />
+    <item android:id="@+id/naveg" android:title=" Navegacion" />
+    <item android:id="@+id/estaciona" android:title=" Estacionamientos" />
+    <item android:id="@+id/ciclovias" android:title=" Ciclovias" />
+    <item android:id="@+id/salir" android:title=" Salir" />
+    <item android:id="@+id/cerrar" android:title=" Cerrar sesion " />
+
+</menu>
